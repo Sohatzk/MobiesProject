@@ -355,3 +355,5 @@ appsettings.json
 
 # Db files
 *.db
+*.db-shm
+*.db-wal
